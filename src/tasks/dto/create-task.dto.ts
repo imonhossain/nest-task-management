@@ -1,4 +1,4 @@
 export class CreateTaskDto{
-    title = "";
-    description = "";   
+    title :string;
+    description :string;   
 }
